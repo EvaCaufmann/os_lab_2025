@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "staticlib/revert_string.h"
+#include "labubu64/revert_string.h"
 
 int main(int argc, char *argv[])
 {
